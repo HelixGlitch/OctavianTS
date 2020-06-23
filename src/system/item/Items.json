@@ -1,0 +1,13 @@
+{
+    "types": ["helmets", "body_armour", "leggings", "gloves", "boots", "sword", "bow", "staff", "ring", "amulet", "belt"],
+    "helmets": {
+        "unique_names": ["Mind Barrier"],
+        "Mind Barrier": {
+            "id": 1001,
+            "rarity": "unique",
+            "base": "Slinger Cap",
+            "lore": "Why protect the body, when the mind is eternal?",
+            "stats": []
+        }
+    }
+}

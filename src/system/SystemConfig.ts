@@ -1,0 +1,1 @@
+export let generosity: Number = 1;
